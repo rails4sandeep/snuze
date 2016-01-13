@@ -1,0 +1,22 @@
+{
+  "name": "snuze",
+  "version": "1.0.0",
+  "description": "simple unconditional wait with no promises and callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wait",
+    "sleep",
+    "break"
+  ],
+  "author": "Sandeep Kumar <rails4sandeep@gmail.com>",
+  "license": "MIT License",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rails4sandeep/filter-coffee.git"
+  }
+}
